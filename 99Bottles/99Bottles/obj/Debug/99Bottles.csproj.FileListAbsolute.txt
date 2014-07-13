@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\bin\Debug\99Bottles.exe.config
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\bin\Debug\99Bottles.exe
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\bin\Debug\99Bottles.pdb
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\obj\Debug\99Bottles.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\obj\Debug\99Bottles.exe
+c:\users\user\documents\visual studio 2013\Projects\99Bottles\99Bottles\obj\Debug\99Bottles.pdb
